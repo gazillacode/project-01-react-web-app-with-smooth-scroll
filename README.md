@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## To view this project
+## View this project
 
 Hosted on Netlify, you can view here: (https://proj-01-react-web-app-with-smooth-scroll.netlify.app/).
 
